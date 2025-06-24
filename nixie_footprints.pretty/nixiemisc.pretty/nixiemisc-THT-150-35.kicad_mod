@@ -1,0 +1,70 @@
+(footprint "nixiemisc-THT-150-35"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" ""
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "99685995-e22e-41d2-acd7-caf18053513d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "f76e3ad1-515e-4b3e-a2ae-d6c302c6aec7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b9d65551-6ba3-474a-a0b1-b1308fcac84c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f35f464-a80f-4df8-a548-82e3716408cb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.778 1.778)
+		(drill 0.89916)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "562a1567-121f-4b31-b1aa-327bb35d9ba6")
+	)
+	(pad "2" thru_hole circle
+		(at 3.81 0)
+		(size 1.778 1.778)
+		(drill 0.89916)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f19968cb-75cd-454c-8b69-63c973b2c7f5")
+	)
+	(embedded_fonts no)
+)

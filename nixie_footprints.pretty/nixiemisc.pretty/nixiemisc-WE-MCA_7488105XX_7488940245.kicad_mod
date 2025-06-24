@@ -1,0 +1,220 @@
+(footprint "nixiemisc-WE-MCA_7488105XX_7488940245"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "MULTIPLAYER CHIP ANTENNA WE-MCA")
+	(tags "MULTIPLAYER CHIP ANTENNA WE-MCA")
+	(property "Reference" ">NAME"
+		(at -2.33426 0.82296 90)
+		(layer "F.SilkS")
+		(uuid "92ee57e8-1c4b-4adc-a567-1021be1a09c7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Value" ">VALUE"
+		(at 2.96418 -0.10922 90)
+		(layer "F.SilkS")
+		(uuid "d107c202-8a84-4f53-bf5d-99bc4824d229")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92ae4b54-0ff7-4c3c-b011-89e4b3cba66f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "14cf84af-3d12-4ad1-a274-21f8c4497b04")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.99822 -2.49936)
+		(end -0.99822 2.49936)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "307d29f0-d8cc-4035-928d-65ac740819e8")
+	)
+	(fp_line
+		(start 0 -2.2987)
+		(end 0 -1.29794)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e9bed7ee-e5d9-42ad-a0b5-b3ec4c833de0")
+	)
+	(fp_line
+		(start 0.99822 -2.49936)
+		(end 0.99822 2.49936)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5320b5fb-ad65-471e-abce-6471c4019cd8")
+	)
+	(fp_line
+		(start -1.24968 -4.24942)
+		(end -1.24968 4.24942)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "163e95ce-a97c-4415-9346-071a7841e314")
+	)
+	(fp_line
+		(start -1.24968 4.24942)
+		(end 1.24968 4.24942)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "0a11efaa-4137-4702-801d-e6c0f9df52a3")
+	)
+	(fp_line
+		(start -0.99822 -3.49758)
+		(end -0.99822 3.49758)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "8c67f4f6-7f30-4dc6-87f6-f8ebb3782010")
+	)
+	(fp_line
+		(start -0.99822 -3.49758)
+		(end 0.99822 -3.49758)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "e081ef3f-e3c8-45e8-a53b-d3cd4fcdf59d")
+	)
+	(fp_line
+		(start -0.99822 -2.49936)
+		(end -0.99822 2.49936)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "7ada901d-73d5-4c8b-a2a7-0a0f49048a0d")
+	)
+	(fp_line
+		(start -0.99822 2.49936)
+		(end 0.99822 2.49936)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "4bd29dec-56d4-470a-862d-396558a61214")
+	)
+	(fp_line
+		(start -0.99822 3.49758)
+		(end 0.99822 3.49758)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "b5603d98-7012-4494-bffa-671af7dfb1b8")
+	)
+	(fp_line
+		(start 0.99822 -3.49758)
+		(end 0.99822 3.49758)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "484c89b7-a499-416a-9b48-1140165512cc")
+	)
+	(fp_line
+		(start 0.99822 -2.49936)
+		(end -0.99822 -2.49936)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "43e1d18f-e380-4ad5-85af-c26b1e68e09d")
+	)
+	(fp_line
+		(start 0.99822 2.49936)
+		(end 0.99822 -2.49936)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "acfe37c3-c961-4dfa-b66c-5e3e3ca42450")
+	)
+	(fp_line
+		(start 1.24968 -4.24942)
+		(end -1.24968 -4.24942)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "2378f88d-6fbd-4866-8fe3-3eed99d567b5")
+	)
+	(fp_line
+		(start 1.24968 4.24942)
+		(end 1.24968 -4.24942)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "177f9e14-acdd-471a-b3f4-d55f245d880c")
+	)
+	(pad "1" smd rect
+		(at 0 -3.39852 90)
+		(size 1.24968 1.99898)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "2466caca-a065-46a8-9651-e8a134e26e1d")
+	)
+	(pad "2" smd rect
+		(at 0 3.39852 90)
+		(size 1.24968 1.99898)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "147ec53b-6ae4-4685-9181-6bec2896aa4f")
+	)
+	(embedded_fonts no)
+)

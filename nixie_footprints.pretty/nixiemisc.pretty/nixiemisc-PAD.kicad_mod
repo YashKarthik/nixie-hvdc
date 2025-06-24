@@ -1,0 +1,62 @@
+(footprint "nixiemisc-PAD"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" ">NAME"
+		(at 0 -1.905 0)
+		(layer "F.SilkS")
+		(uuid "8890f5eb-54ce-4e5f-8eef-2d338d251480")
+		(effects
+			(font
+				(size 0.8128 0.8128)
+				(thickness 0.0762)
+			)
+		)
+	)
+	(property "Value" ">VALUE"
+		(at 0 1.905 0)
+		(layer "F.SilkS")
+		(uuid "fd12c15a-1c3c-4c4a-a1e7-b14eb4f969b1")
+		(effects
+			(font
+				(size 0.8128 0.8128)
+				(thickness 0.0762)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6a0cd813-09e7-493a-88cc-9c08e3396c42")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d08f6bef-351f-47d3-9d83-db60c2784fde")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(pad "P$1" thru_hole circle
+		(at 0 0)
+		(size 1.50622 1.50622)
+		(drill 0.99822)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9d0bb01e-813a-490c-a5fa-f4670d8f4952")
+	)
+	(embedded_fonts no)
+)

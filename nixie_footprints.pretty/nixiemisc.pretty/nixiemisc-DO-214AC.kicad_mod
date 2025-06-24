@@ -1,0 +1,290 @@
+(footprint "nixiemisc-DO-214AC"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SURFACE MOUNT GENERAL RECTIFIER JEDEC DO-214AC MOLDED PLATIC BODY")
+	(tags "SURFACE MOUNT GENERAL RECTIFIER JEDEC DO-214AC MOLDED PLATIC BODY")
+	(property "Reference" ">NAME"
+		(at 0.635 -2.54 0)
+		(layer "F.SilkS")
+		(uuid "a6fc9638-8d47-4902-8335-df72ea0412ce")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Value" ">VALUE"
+		(at 1.27 2.54 0)
+		(layer "F.SilkS")
+		(uuid "e17e5738-9267-4622-8c24-c8580496670e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "535fa34f-6480-4e9c-ba34-d8e19ca746cf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d535288-0018-4bf2-85c1-d9391b751061")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.06426 -1.22428)
+		(end -0.38862 -1.22428)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4bb2b499-ee44-4bda-9134-fd98d5648660")
+	)
+	(fp_line
+		(start -1.06426 1.22428)
+		(end -1.06426 -1.22428)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a82471d5-d501-4c1f-8be5-1c7f61d7e608")
+	)
+	(fp_line
+		(start -1.06426 1.22428)
+		(end -0.38862 1.22428)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "502e50bb-1376-47c5-b7e9-b61afb905f48")
+	)
+	(fp_line
+		(start -1.03378 -1.29794)
+		(end 1.02362 -1.29794)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5d205b11-af8d-47c2-b25b-f9df3b1d55c7")
+	)
+	(fp_line
+		(start -0.38862 1.22428)
+		(end -0.38862 -1.22428)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c3600f0a-38bb-416e-ba0d-b21592c10c30")
+	)
+	(fp_line
+		(start 1.02362 1.29794)
+		(end -1.03378 1.29794)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2e9942fd-196f-4c7d-96cd-03e06ebb50ef")
+	)
+	(fp_line
+		(start -2.82448 -1.09982)
+		(end -2.17424 -1.09982)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "36b114f3-4fd9-44e4-a2f9-51a984340750")
+	)
+	(fp_line
+		(start -2.82448 1.09982)
+		(end -2.82448 -1.09982)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "bf7a0cf9-939b-464a-be80-6a330c05acc1")
+	)
+	(fp_line
+		(start -2.82448 1.09982)
+		(end -2.17424 1.09982)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "7ea87262-d272-4579-8649-133960391286")
+	)
+	(fp_line
+		(start -2.17424 1.09982)
+		(end -2.17424 -1.09982)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "9f461ffb-c12a-4237-83b7-a7c7b454f9f5")
+	)
+	(fp_line
+		(start -2.14884 -1.29794)
+		(end 2.14884 -1.29794)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "2271a05d-668b-40a1-9214-f16af60fac80")
+	)
+	(fp_line
+		(start -2.14884 1.29794)
+		(end -2.14884 -1.29794)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "ef50dd09-a9de-45eb-8aaf-d4e69397b596")
+	)
+	(fp_line
+		(start -1.74752 -1.22428)
+		(end -1.07442 -1.22428)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "a2b2ea2b-d2f6-4c83-bdd8-98e13f406407")
+	)
+	(fp_line
+		(start -1.74752 1.22428)
+		(end -1.74752 -1.22428)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "a179b0ac-7a9f-414e-bb68-b0ecbd5f011a")
+	)
+	(fp_line
+		(start -1.74752 1.22428)
+		(end -1.07442 1.22428)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "e199067c-f9ff-4602-b816-3fefcf921a54")
+	)
+	(fp_line
+		(start -1.07442 1.22428)
+		(end -1.07442 -1.22428)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "52850d1d-3293-4b60-9791-67c59666f08b")
+	)
+	(fp_line
+		(start 2.14884 -1.29794)
+		(end 2.14884 1.29794)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "a74037b7-f733-422c-bbd1-d36448ce7383")
+	)
+	(fp_line
+		(start 2.14884 1.29794)
+		(end -2.14884 1.29794)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "c36d1c90-c479-447f-bd7e-290543e87349")
+	)
+	(fp_line
+		(start 2.17424 -1.09982)
+		(end 2.17424 1.09982)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "ed1d421f-5a22-47b6-b48e-906fdb011414")
+	)
+	(fp_line
+		(start 2.82448 -1.09982)
+		(end 2.17424 -1.09982)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "1dc9a11d-8b6f-4743-987d-e889679c76cd")
+	)
+	(fp_line
+		(start 2.82448 -1.09982)
+		(end 2.82448 1.09982)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "6b8fed91-ed5a-4397-988a-e49ea52e31c6")
+	)
+	(fp_line
+		(start 2.82448 1.09982)
+		(end 2.17424 1.09982)
+		(stroke
+			(width 0.06604)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "e32025c5-7e00-4a7d-96cb-c97f20db7271")
+	)
+	(pad "A" smd rect
+		(at 2.02438 0 180)
+		(size 1.79832 2.39776)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "9c60f319-5abf-482b-a9b3-2fce2d995765")
+	)
+	(pad "C" smd rect
+		(at -2.02438 0)
+		(size 1.79832 2.39776)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "33daa37b-4b77-4796-9e25-9d6fe92f6a27")
+	)
+	(embedded_fonts no)
+)
