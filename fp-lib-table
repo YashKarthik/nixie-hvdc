@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "mynixies")(type "KiCad")(uri "${KIPRJMOD}/nixie_footprints.pretty/mynixies.pretty/")(options "")(descr ""))
   (lib (name "nixies-us")(type "KiCad")(uri "${KIPRJMOD}/nixie_footprints.pretty/nixies-us.pretty/")(options "")(descr ""))
+  (lib (name "barrel_jack")(type "KiCad")(uri "${KIPRJMOD}/nixie_footprints.pretty/barrel_jack.pretty")(options "")(descr ""))
 )
