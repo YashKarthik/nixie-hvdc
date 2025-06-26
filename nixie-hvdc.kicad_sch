@@ -3300,6 +3300,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Ref: \n- https://www.electronics-lab.com/project/hv-nixie-dc-dc-switching-power-supply/\n- https://nick.desmith.net/Electronics/NixiePSU.html\n"
+		(exclude_from_sim no)
+		(at 176.276 161.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "454fc5a4-eb26-4435-bc3f-a71eb98931d1")
+	)
 	(junction
 		(at 210.82 41.91)
 		(diameter 0)
@@ -6968,7 +6979,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part No." "478-1724-2-ND"
+		(property "DigiKey Part No." "478-6066-2-ND"
 			(at 121.92 40.64 0)
 			(effects
 				(font
