@@ -5920,7 +5920,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "153d42d7-05a7-4358-bad2-87079d47fd86")
 		(property "Reference" "NX1"
 			(at 241.3 105.41 0)
@@ -5931,13 +5930,12 @@
 			)
 		)
 		(property "Value" "IN-12BIN-12-DSUB"
-			(at 242.57 127 0)
+			(at 232.41 146.558 0)
 			(effects
 				(font
 					(size 1.143 1.143)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "nixies-us:nixies-us-IN-12-DSUB"
@@ -5946,6 +5944,7 @@
 				(font
 					(size 0.508 0.508)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
