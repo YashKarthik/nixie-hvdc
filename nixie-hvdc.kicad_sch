@@ -9947,7 +9947,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "VGF39NCHXT-B502"
+		(property "Value" "3386P-1-502LF"
 			(at 213.36 64.7699 0)
 			(effects
 				(font
@@ -9956,7 +9956,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical"
 			(at 210.82 63.5 0)
 			(effects
 				(font
@@ -9992,7 +9992,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part No." "VGF39NCHXT-B502"
+		(property "MFR Part No." "3386P-1-502LF"
 			(at 210.82 63.5 0)
 			(effects
 				(font
@@ -10001,7 +10001,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part No." "TC33X-502ETR-ND"
+		(property "DigiKey Part No." "3386P-502LF-ND"
 			(at 210.82 63.5 0)
 			(effects
 				(font
