@@ -503,9 +503,21 @@
         "line_style": 0,
         "name": "HIGH_PWR",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.7,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.8,
+        "name": "HV",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
@@ -518,6 +530,14 @@
       {
         "netclass": "HIGH_PWR",
         "pattern": "+12V"
+      },
+      {
+        "netclass": "HV",
+        "pattern": "/NIXIE_DIGIT*"
+      },
+      {
+        "netclass": "HV",
+        "pattern": "/180V"
       }
     ]
   },

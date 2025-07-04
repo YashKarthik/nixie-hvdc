@@ -165,7 +165,7 @@
 )
 (rule "JLCPCB: Trace Spacing (Outer Layer)"
 	(layer outer)
-	(condition "A.Type == 'Track' && B.Type == 'Track'")
+	(condition "A.Type == 'Track' && B.Type == 'Track' && A.NetClass != 'HV' && B.NetClass != 'HV'")
   # Choose between:
   # 1-2 Layers (1oz)
   # (constraint clearance (min 0.127mm))
